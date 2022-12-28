@@ -1,4 +1,4 @@
-# WEB102 Prework - _Name of App Here_
+# WEB102 Prework - _Game Fund_
 
 Submitted by: **Admas Kebede**
 
@@ -19,7 +19,7 @@ The following **required** functionality is completed:
 
 Here's a walkthrough of implemented features:
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://github.com/AdmasKebede/web102_prework/blob/main/assets/pre-work-walk-through.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 <!-- Replace this with whatever GIF tool you used! -->
 
